@@ -376,7 +376,6 @@ header .logo {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	filter: blur(13px);
 }
 
 #main-flexslider ul.slides li p {
