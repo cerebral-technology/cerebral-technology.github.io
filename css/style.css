@@ -371,11 +371,12 @@ header .logo {
 
 /* --- Header slider --- */
 #header-wrapper.header-slider {
-	background: #444 url(../img/bg/bg-1.jpg) no-repeat center center fixed;
+	background: #444 url(../img/bg/city-bg.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	filter: blur(13px);
 }
 
 #main-flexslider ul.slides li p {
